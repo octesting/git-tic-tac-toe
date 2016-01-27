@@ -9,12 +9,13 @@ cd git-tic-tac-toe
 git checkout -b myTic  
 ```
 Изменяем файл tic-tac-toe.txt  
-
+```
 |O| | | | | |  
 | | | | | | |  
 | | | | | | |  
 | | | | | | |  
 | | | | | | |  
+```  
   
 ```
 git add tic-tac-toe.txt  
